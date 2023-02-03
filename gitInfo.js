@@ -19,6 +19,7 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitHubDefinition="a cloud base git repository hosting service"
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +28,7 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitInitDefintion= "initialize a local repository right here in this folder"
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -35,6 +37,7 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitcloneREPOURL= "copy a repo from GitHub and put it on my machine"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -43,6 +46,7 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitStatusDefinition= 'tell me about this repo'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +58,8 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitAddDefinition= 'add some files to be tracked'
+var gitAddCode= 'add some files to be tracked'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -65,6 +71,8 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitCommitDefinition='create a snapshot of the files tracked'
+var gitCommitCode='git commit -m “initial commit.'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -74,3 +82,4 @@ var gitDefinition= "version control software"
 */
 
 //CODE HERE
+var gitPushDefinition= 'put my local commits on GitHub'
