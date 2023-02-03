@@ -16,7 +16,7 @@ for (let faveNum = 6; faveNum < 6; faveNum++) {
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
-let newBoolean= 'lovescode'
+let newBoolean= 'false'
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -26,7 +26,7 @@ let newBoolean= 'lovescode'
 */
 
 //CODE HERE
-let favenum=6;
+let faveNum=6;
 if (faveNum ===13){
 console.log ("lucky 13");
 }else{ 
