@@ -2,7 +2,7 @@
 /* Create a variable called 'myName' with a value that is your name as a string. */
 
 //CODE HERE 
-let 'myName' = Neil
+let myName = "Neil"
 
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */

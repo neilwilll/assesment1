@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+var gitDefinition= "version control software"
 
 //////////////////PROBLEM 2////////////////////
 /*
